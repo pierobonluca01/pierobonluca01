@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pierobonluca01&show_icons=true&theme=tokyonight&locale=en" alt="pierobonluca01" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pierobonluca01&show_icons=true&theme=tokyonight&locale=en"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierobonluca01&show_icons=true&theme=tokyonight&locale=en&layout=compact"/></p>
 
 
 <!--
